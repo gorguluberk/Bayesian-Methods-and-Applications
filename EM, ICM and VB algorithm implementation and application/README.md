@@ -1,0 +1,1 @@
+# EM, ICM and VB algorithms impelementation and application
